@@ -1,0 +1,2 @@
+# error-Arrays-save-numbers-with-0
+  Programa Java que ha de crear dos arrays de 10 números enters  * aleatoris entre 0 i 9, i a partir d'ells ha de crear un nou array   * format pels números que no es troben a tots dos arrays a la vegada,  * es a dir, que es troben a un dels arrays però no a l'altre.  *   * Tots tres arrays s'han de mostrar per pantalla.  *    *  El resultat del programa s'hauria de semblar al següent exemple:  *   Array 1: [5,7,9,2,9,8,3,2,4,8] Array 2: [6,2,5,8,3,0,5,9,2,0] Resultat: [7,4,6,0,0] 
